@@ -1,18 +1,66 @@
 <h1 align="center">Hi 👋, I'm SANJAY U</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">AI & Full Stack Developer | Passionate about building intelligent applications</h3>
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently exploring **LangChain, AI agents, and modern full stack technologies**
 
-- 👨‍💻 All of my projects are available at [https://sanjaypotfolio.netlify.app](https://sanjaypotfolio.netlify.app)
+- 👨‍💻 Portfolio: [sanjaypotfolio.netlify.app](https://sanjaypotfolio.netlify.app)
 
-- 💬 Ask me about **HTML,CSS,JS,PYTHON,REACT**
+- 💬 Ask me about **React, Python, Flask, LangChain, Redux, Docker, and AI integration**
 
-- 📫 How to reach me **sanjay.05@icloud.com**
+- 📫 Reach me at **sanjay.05@icloud.com**
 
-<h3 align="left">Connect with me:</h3>
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/sanjay-u-551b21255/) | Check out my [GitHub](https://github.com/USANJAY05)
+
+---
+
+### 🛠️ Technologies & Tools
+
 <p align="left">
-<a href="https://www.linkedin.com/in/sanjay-u-551b21255/?jobid=1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjay-u-551b21255/" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 Projects
+
+- 🔧 [AI Terminal](https://github.com/USANJAY05/ai-terminal.git): AI-powered terminal assistant using LangChain to execute shell commands from natural language.
+
+- 🤖 [AI ChatBot](https://cgemini.netlify.app): A React-based chatbot powered by Gemini API, LangChain agents, and custom tools for intelligent interaction.
+
+- 🕵️‍♂️ [Police Hackathon Dashboard](https://github.com/USANJAY05/police-hackathon.git): Flask-based crime analysis dashboard with interactive data visualization for law enforcement.
+
+---
+
+### 🧑‍💼 Experience
+
+**Full Stack Developer Intern – Bot2do (Aug 2024 – Nov 2024)**  
+- Built AgentM Chatbot frontend with React, Redux, Tailwind CSS  
+- Integrated LangChain with Gemini API  
+- Deployed using Docker, AWS, and GitHub Actions (CI/CD)
+
+---
+
+### 📜 Certifications
+
+- ReactJS – Complete Beginner Course (Oct 2024)  
+- TailwindCSS from A to Z (Jul 2024)  
+- Docker & Kubernetes Masterclass (Mar 2024)  
+- HTML, CSS, and JS for Web Developers (Nov 2023)  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USANJAY05&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USANJAY05&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
